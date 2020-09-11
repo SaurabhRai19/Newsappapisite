@@ -6,8 +6,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster+Two:ital,wght@1,700&family=Roboto+Condensed:wght@700&display=swap');
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.headline{
+  color: Grey;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.tagline{
+  font-family: 'Lobster Two', cursive;
+}
+
+.rest{
+  font-family: 'Roboto Condensed', sans-serif;
 }
