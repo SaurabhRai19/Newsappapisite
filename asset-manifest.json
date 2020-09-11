@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SaurabhRai19/Newsappapisite.git/static/css/main.11bd4ca9.chunk.css",
+    "main.js": "/SaurabhRai19/Newsappapisite.git/static/js/main.45d562d9.chunk.js",
+    "main.js.map": "/SaurabhRai19/Newsappapisite.git/static/js/main.45d562d9.chunk.js.map",
+    "runtime-main.js": "/SaurabhRai19/Newsappapisite.git/static/js/runtime-main.6a7b544d.js",
+    "runtime-main.js.map": "/SaurabhRai19/Newsappapisite.git/static/js/runtime-main.6a7b544d.js.map",
+    "static/js/2.a9949c24.chunk.js": "/SaurabhRai19/Newsappapisite.git/static/js/2.a9949c24.chunk.js",
+    "static/js/2.a9949c24.chunk.js.map": "/SaurabhRai19/Newsappapisite.git/static/js/2.a9949c24.chunk.js.map",
+    "index.html": "/SaurabhRai19/Newsappapisite.git/index.html",
+    "precache-manifest.97aef2616b244d4d7cdfdee4f9692131.js": "/SaurabhRai19/Newsappapisite.git/precache-manifest.97aef2616b244d4d7cdfdee4f9692131.js",
+    "service-worker.js": "/SaurabhRai19/Newsappapisite.git/service-worker.js",
+    "static/css/main.11bd4ca9.chunk.css.map": "/SaurabhRai19/Newsappapisite.git/static/css/main.11bd4ca9.chunk.css.map",
+    "static/js/2.a9949c24.chunk.js.LICENSE.txt": "/SaurabhRai19/Newsappapisite.git/static/js/2.a9949c24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a7b544d.js",
+    "static/js/2.a9949c24.chunk.js",
+    "static/css/main.11bd4ca9.chunk.css",
+    "static/js/main.45d562d9.chunk.js"
+  ]
+}
